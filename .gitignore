@@ -56,3 +56,6 @@ pipeline_segment/sorties/*
 *.jpeg
 *.png
 *.jpg
+
+#exception
+!pipeline_segment/requirements.txt
