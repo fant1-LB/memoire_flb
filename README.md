@@ -1,4 +1,4 @@
-## Bienvenue dans les annexes du mémoire de M2 TNAH de Fantin Le Ber##
+## Bienvenue dans les annexes du mémoire de M2 TNAH de Fantin Le Ber ##
 
 Le dossier MCD et le fichier présentation Arkindex sont à consulter normalement.
 
