@@ -42,10 +42,15 @@ venv
 
 # datas #
 *.csv
+*.txt
 
 #speciaux
 pipeline_segment/image_a_traiter/*
 pipeline_segment/pero_eu_cz_print_newspapers_2022-09-26/*
+*.pt
+pipeline_segment/dossier_output_experience/*
+pipeline_segment/sorties/*
+
 
 #images
 *.jpeg
