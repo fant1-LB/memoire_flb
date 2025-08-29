@@ -6,6 +6,6 @@ deep_translator
 matplotlib
 configparser
 numpy
-ultralytics
+ultralytics==8.3.136
 ipykernel
 pero-ocr
