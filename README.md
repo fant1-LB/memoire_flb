@@ -12,3 +12,5 @@ Dans le même dossier que le notebook pipeline.ipynb doivent se trouver :
 - Un modèle Yolo adapté
 - Le modèle pero_ocr, disponible ici : https://nextcloud.fit.vutbr.cz/s/NtAbHTNkZFpapdJ?openfile=true
 - Des images au format .jpg à traiter, à mettre dans le dossier "images_a_traiter"
+
+Les utilisateurs Linux/Mac devront remplacer les "\\" contenus dans les notebooks par un unique "/" pour adapter les chemins. 
