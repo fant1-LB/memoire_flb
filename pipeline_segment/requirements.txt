@@ -8,3 +8,4 @@ configparser
 numpy
 ultralytics
 ipykernel
+pero-ocr
