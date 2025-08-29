@@ -1,13 +1,9 @@
 pandas
-python-opencv
+opencv-python
 transformers
-os
-ast
 pillow
 deep_translator
 matplotlib
-os
 configparser
 numpy
-re
 ultralytics
