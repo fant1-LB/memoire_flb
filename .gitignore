@@ -50,6 +50,7 @@ pipeline_segment/pero_eu_cz_print_newspapers_2022-09-26/*
 *.pt
 pipeline_segment/dossier_output_experience/*
 pipeline_segment/sorties/*
+scrapping/*
 
 
 #images
@@ -60,3 +61,5 @@ pipeline_segment/sorties/*
 #exception
 !pipeline_segment/requirements.txt
 !scrapping/requirements.txt
+!scrapping/scrapping_complet_arcade.ipynb
+!scrapping/tableau_fromtxt.ipynb
