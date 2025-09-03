@@ -22,10 +22,10 @@ Les utilisateurs Linux/Mac devront remplacer les "\\\\" contenus dans les notebo
 
 Ce dossier contient 2 notebooks. 
 Le premier, "scrapping_complet_arcade.ipynb" produit les éléments suivant :
-Une extraction de l'image correspondante à chaque oeuvre (triées par ordre alphabétique du nom d'auteur) pour une année x. Par exemple l'image de l'oeuvre numérotée Y de l'année X sera trouvable au chemin : "scrapping\albumX\imagehdX\imageY.jpg".
-Un fichier csv contenant les informations à propos de chaque oeuvre d'une année x contenues dans la base. Pour la première année, ce csv sera ainsi trouvale au chemin : "scrapping\scrapping_def\scrap_final1\final_v3_1.csv"
-Une série de fichiers texte ignorables contenant des liens utilisés pour naviguer au sein du notebook.
-Un fichier de coordonnées des images, appellé dans le deuxième notebook pour être mis en forme. On peut y accéder si besoin, pour une année X au chemin "scrapping\resultats_scrapping\anneeX\images_zones_V2_X".
+- Une extraction de l'image correspondante à chaque oeuvre (triées par ordre alphabétique du nom d'auteur) pour une année x. Par exemple l'image de l'oeuvre numérotée Y de l'année X sera trouvable au chemin : "scrapping\albumX\imagehdX\imageY.jpg".
+- Un fichier csv contenant les informations à propos de chaque oeuvre d'une année x contenues dans la base. Pour la première année, ce csv sera ainsi trouvale au chemin : "scrapping\scrapping_def\scrap_final1\final_v3_1.csv"
+- Une série de fichiers texte ignorables contenant des liens utilisés pour naviguer au sein du notebook.
+- Un fichier de coordonnées des images, appellé dans le deuxième notebook pour être mis en forme. On peut y accéder si besoin, pour une année X au chemin "scrapping\resultats_scrapping\anneeX\images_zones_V2_X".
 Le deuxième notebook transforme le dit fichier texte en un csv contenant les coordonnées pour chaque image, accessible pour une année X au chemin : "scrapping\coordonnees_completes\tableau_coordonneesX".
 
 Comme pour le pipeline de segmentation il vaut mieux les executer dans un environnement virtuel, pour installer les dépendances, utiliser la commande :
